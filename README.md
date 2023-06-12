@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a Power BI project on road accidents about an imaginary state called “State X”. The project is to analyze and derive insights to answer crucial questions and help stakeholders make informed data driven decisions in order to reduce and eventually prevent road accidents. After several meetings with various stakeholders and departments within my company to gather requirements, my company asked me to create a “Road Accident Dashboard” for year 2021 and 2022, so that they can have insight on the gathered requirements.
+This is a Power BI project on road accidents of major cities in the United Kingdom. The project is to analyze and derive insights to answer crucial questions and help stakeholders make informed data driven decisions in order to reduce and eventually prevent road accidents within these major cities. After several meetings with various stakeholders and departments within my company to gather requirements, my company asked me to create a “Road Accident Dashboard” for year 2021 and 2022, so that they can have insight on the gathered requirements.
 
 ## Gathered Requirements
 
