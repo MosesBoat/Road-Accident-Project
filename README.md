@@ -1,6 +1,6 @@
 # Road-Accident-Analysis of Major Cities in the UK
 
-![](cars-on-snowy-road-police-car-in-front-banner.png)
+![](cars-on-snowy-road-police-car-in-front-banner.png) 
 
 ## Introduction
 
