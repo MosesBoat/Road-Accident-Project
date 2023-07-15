@@ -1,12 +1,15 @@
-# Road-Accident-Analysis of Major Cities in the UK
+# Analysis of Road Accidents in Key UK Cities: Insights and Recommendations
 
 ![](cars-on-snowy-road-police-car-in-front-banner.png) 
 
 ## Introduction
 
-This is a Power BI project on road accidents of major cities in the United Kingdom. The project is to analyze and derive insights to answer crucial questions and help stakeholders make informed data driven decisions in order to reduce and eventually prevent road accidents within these major cities. After several meetings with various stakeholders and departments within my company to gather requirements, my company asked me to create a “Road Accident Dashboard” for year 2021 and 2022, so that they can have insight on the gathered requirements.
+As a data analyst, I was recently assigned the task of creating a top-level dashboard for road accidents in key UK cities. The primary objective was to analyze and derive insights to answer crucial questions and help stakeholders make informed data driven decisions in order to reduce and eventually prevent road accidents within these major cities. Through extensive analysis of road accident data in year 2021 and 2022, I uncovered several key observations that can guide future decision-making. In this post, I will share my findings and provide recommendations based on the insights derived from the road accident report and dashboard.
 
-## Gathered Requirements
+## Business Problem:
+Improving Road Safety Measures to Prevent Accidents
+The objective of this analysis was to answer critical questions and help agency stakeholders gain a deeper understanding of the accident occurrences. 
+After several meetings with various stakeholders and departments within my company, I was able to gather the following specific requirements.
 
 1)	Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
 2)	Primary KPI’s - Total Casualties by Accident Severity for Current Year and YoY growth
