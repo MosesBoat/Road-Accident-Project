@@ -46,59 +46,41 @@ After several meetings with various stakeholders and departments within my compa
 -	Export the report to users
 -	Creating Dashboards
 
-## Modeling
-Automatically derived relationships are adjusted to remove and replace unwanted relationships with the required.
 
-![](Model%20View%20of%20Table%20Relationship.png)
+## Observations and Insights
 
-There data model involved a single one dimension table and one fact table. The dimension table is joined to the fact table by  one-to-many relationship.
+1.	Casualties by Vehicle Type Analysis:
+The major cause of casualties on the roads are cars followed by vans and bikes. Cars caused more than half of casualties (almost 80%). Both vans and bikes caused 8% of casualties. This highlights the significant impact and involvement of cars in road accidents. It is crucial to address factors such as driver behavior, road infrastructure, and vehicle safety measures to mitigate the risks associated with car accidents.
 
-## Visualizations
+    ![](Casualties%20by%20Vehicle%20Type.png)
 
-The report comprises of a page with two slicers and diverse visuals that interact with each other. You can interact with the report [here](https://app.powerbi.com/links/pccHKcXIRj?ctid=3327555b-876a-470a-b0cf-ded3db22f2b5&pbi_source=linkShare)
 
-## Features 
+2.  Casualties by Road Type Analysis:
+The major cause of casualties by road type is caused by single carriageway. This caused over 70% of casualties. Both dual carriageway and roundabout caused about 6% of casualties. This indicates that single carriageway roads pose a significant risk to road users and require attention in terms of safety improvements and accident prevention measures.
+Understanding the specific factors contributing to accidents on dual carriageway and roundabouts can also inform targeted interventions.
 
-Two slicers were added to depict;
--	Road surface
+    ![](Casualties%20by%20Road%20Type.png)
 
-![](Road%20Surface%20Slicer.png)
 
--	Weather conditions
+3.	Casualties by Urban/Rural Analysis:
+More than 50% of casualties happened in the Urban areas as compared to 38% in the rural areas. This suggests that urban areas pose a higher risk for road accidents and require increased attention to improve road safety measures. Factors such as higher population density, increased traffic volume, complex road networks, and various modes of transportation interacting in urban environments may be contributing to the higher casualty rate.
 
-![](Weather%20Conditions%20Slicer.png)
+   ![](Casualties%20by%20Urban_Rural.png)
 
-## Analysis
 
-Casualties vs Previous Year Casualties Monthly Trend
+4.	Casualties by Light Conditions Analysis:
+More than 70% of accidents happened during the daytime as compared to 26% at night. This suggests that the risk of accidents is higher when visibility conditions are generally better. Factors such as increased traffic volume, higher speeds, driver fatigue, and distractions during the day may contribute to the higher occurrence of accidents.
+While the percentage of accidents at night is lower, around 26%, it still represents a notable portion of the total. Nighttime driving poses its own set of challenges, including reduced visibility, driver impairment, and increased difficulty in perceiving hazards. Therefore, it is important to address factors specific to nighttime driving, such as improving street lighting, promoting driver awareness of nighttime hazards, and enforcing regulations related to impaired driving and visibility-enhancing measures.
 
-![](CY%20vs%20PY%20Casualties%20Monthly%20Trend.png)
+## Visualizations (Report and Dashboard)
 
-Casualties by Urban or Rural Areas
+The report comprises of a page with two slicers and diverse visuals that interact with each other. 
 
-![](Casualties%20by%20Urban_Rural.png)
 
-Casualties by Location
+You can interact with the report [here](https://app.powerbi.com/links/pccHKcXIRj?ctid=3327555b-876a-470a-b0cf-ded3db22f2b5&pbi_source=linkShare)
 
-![](Casualties%20by%20Location.png)
 
-Casualties by Road Type
-
-![](Casualties%20by%20Road%20Type.png)
-
-Casualties by Vehicle
-
-![](Casualties%20by%20Vehicle%20Type.png)
-
-## Data Analysis Touchpoints
-
-From analyzing visuals obtained, it can be seen that;
--	Over 50% of casualties were caused by cars.
--	Most of the accidents (more than 70%) happened on a single carriageway.
--	Almost 60% of the accidents happened in the Urban areas.
--	Over 70% of these accidents happened during the day.
-
-## Conclusion and recommendation
+## Recommendations for Agency:
 
 Based on the data analysis report outlining the results, here are some recommendations for stakeholders:
 1. Improve Road Safety Measures for Cars: 
@@ -117,6 +99,7 @@ With almost 60% of accidents happening in urban areas, it is evident that specif
 
 Since over 70% of accidents occurred during the day, stakeholders should focus on improving safety measures during daylight hours. This may include campaigns to raise awareness about safe driving practices, highlighting the importance of vigilance and alertness even in familiar surroundings. Furthermore, stakeholders can consider conducting targeted educational programs and driver training initiatives to address common causes of daytime accidents, such as distracted driving or speeding.
 
+## Conclusion
 It is important for stakeholders to collaborate with relevant government agencies, law enforcement, community organizations, and other stakeholders to implement these recommendations effectively. Regular monitoring and evaluation of implemented measures will be critical to assess their impact on reducing accidents and casualties. By prioritizing these recommendations, stakeholders can make significant strides towards improving road safety and preventing accidents in the identified areas of concern.
 
 
